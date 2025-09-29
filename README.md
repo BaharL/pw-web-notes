@@ -3,7 +3,7 @@
 This repository contains my personal notes for the **Programmazione per il Web** course.
 
 ## Index
-- [Lecture 01 — Git & Snapshots](notes/01-git-snapshot.md)
+- [Lecture 01 — Git](notes/01-git.md)
 - [Lecture 02 — HTML & CSS](notes/02-html-css.md)
 - [Lecture 03 — JavaScript Basics](notes/03-js-basics.md)
 - [Lecture 04 — DOM & AJAX](notes/04-dom-ajax.md)
